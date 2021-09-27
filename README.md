@@ -1,1 +1,1 @@
-# This Week in Earthquakes from USGS
+# This Week in Earthquakes from the USGS
